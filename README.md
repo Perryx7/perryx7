@@ -18,7 +18,7 @@ Passionate about coding, building projects, and continuously improving my skills
 not yet in python for others you can check my repository
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Perryx7E&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Perryx7&show_icons=true&theme=radical)
 
 ## ⚡ Fun Fact
 not fun fact sorry i am normal but guess what i play as mieldfield in soccer and i am deeply in love with it
