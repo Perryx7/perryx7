@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Dia Jacques
 
-<!--
-**Perryx7/perryx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Aspiring Python developer (of course this will change) | Learning from basics to software engineer  
+Passionate about coding, building projects, and continuously improving my skills  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Python projects and small applications  
+- 🌱 I’m learning advanced Python, data structures, and algorithms  
+- 💬 Ask me about Python, Git/GitHub, and project-based learning  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dia-jacques-a19a1a256/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Languages:** Python, SQL , javascript , html , css , reactjs 
+- **Tools & Technologies:** Git, GitHub, VSCode ,matlab, postman, insomnia 
+- **Concepts:** OOP, Data Structures & Algorithms, Problem Solving  
+
+## 📝 Projects
+not yet in python for others you can check my repository
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Perryx7E&show_icons=true&theme=radical)
+
+## ⚡ Fun Fact
+not fun fact sorry i am normal but guess what i play as mieldfield in soccer and i am deeply in love with it
