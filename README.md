@@ -28,6 +28,10 @@ Not yet in Python, but check my repos for others.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perryx7&layout=compact&theme=radical)
 
+## 🐍 Contribution Snake
+![snake animation](https://raw.githubusercontent.com/Perryx7/Perryx7/output/snake.svg)
+
+
 ---
 
 ## ⚡ Fun Fact
