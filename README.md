@@ -9,17 +9,26 @@ Passionate about coding, building projects, and continuously improving my skills
 - 💬 Ask me about Python, Git/GitHub, and project-based learning  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dia-jacques-a19a1a256/)  
 
+---
+
 ## 💻 Skills
-- **Languages:** Python, SQL , javascript , html , css , reactjs 
-- **Tools & Technologies:** Git, GitHub, VSCode ,matlab, postman, insomnia 
+- **Languages:** Python, SQL, JavaScript, HTML, CSS, ReactJS  
+- **Tools & Technologies:** Git, GitHub, VSCode, Matlab, Postman, Insomnia  
 - **Concepts:** OOP, Data Structures & Algorithms, Problem Solving  
 
+---
+
 ## 📝 Projects
-not yet in python for others you can check my repository
+Not yet in Python, but check my repos for others.  
+
+---
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Perryx7&show_icons=true&theme=radical)
-[top langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Perryx7&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perryx7&layout=compact&theme=radical)
+
+---
 
 ## ⚡ Fun Fact
-not fun fact sorry i am normal but guess what i play as mieldfield in soccer and i am deeply in love with it
+Not really a fun fact… but I play as a **midfielder** in soccer ⚽ and I’m deeply in love with the game ❤️  
