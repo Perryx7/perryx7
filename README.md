@@ -19,6 +19,7 @@ not yet in python for others you can check my repository
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Perryx7&show_icons=true&theme=radical)
+[top langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Perryx7&layout=compact&theme=radical)
 
 ## ⚡ Fun Fact
 not fun fact sorry i am normal but guess what i play as mieldfield in soccer and i am deeply in love with it
