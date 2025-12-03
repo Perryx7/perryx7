@@ -1,25 +1,25 @@
 # Hi there 👋, I'm Dia Jacques
 
 ## 🚀 About Me
-Aspiring Python developer (of course this will change) | Learning from basics to software engineer  
-Passionate about coding, building projects, and continuously improving my skills  
+Driven Data Engineering enthusiast | Completed Python journey, now building robust data solutions  
+Passionate about coding, architecting data pipelines, and continuously improving my skills  
 
-- 🔭 I’m currently working on Python projects and small applications  
-- 🌱 I’m learning advanced Python, data structures, and algorithms  
-- 💬 Ask me about Python, Git/GitHub, and project-based learning  
+- 🔭 I’m currently working on data engineering projects, building ETL pipelines & scalable applications  
+- 🌱 I’m learning cloud data platforms, big data technologies, and advanced data engineering concepts  
+- 💬 Ask me about Python, Data Engineering, Git/GitHub, and project-based learning  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dia-jacques-a19a1a256/)  
 
 ---
 
 ## 💻 Skills
 - **Languages:** Python, SQL, JavaScript, HTML, CSS, ReactJS  
-- **Tools & Technologies:** Git, GitHub, VSCode, Matlab, Postman, Insomnia  
-- **Concepts:** OOP, Data Structures & Algorithms, Problem Solving  
+- **Tools & Technologies:** Git, GitHub, VSCode, Matlab, Postman, Insomnia, Airflow, Spark, AWS  
+- **Concepts:** Data Engineering, OOP, Data Structures & Algorithms, ETL Processes, Cloud Computing  
 
 ---
 
 ## 📝 Projects
-Not yet in Python, but check my repos for others.  
+Check my repos for data engineering and Python projects. More coming soon!
 
 ---
 
